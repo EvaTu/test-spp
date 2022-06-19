@@ -1,0 +1,20 @@
+.root-container {
+  width: 100%;
+  //background-color:yellow;
+  .app-container {
+    //background-color: green;
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+  }
+}
+
+
+
+
+
+
+
