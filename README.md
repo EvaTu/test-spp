@@ -1,2 +1,2 @@
-# test-spp
+# test-app
 react-test-app
